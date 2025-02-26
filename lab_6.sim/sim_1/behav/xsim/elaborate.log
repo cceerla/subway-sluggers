@@ -1,0 +1,33 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 3be2a4aecd874966a21514986c452291 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot brain_fsm_test_behav xil_defaultlib.brain_fsm_test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 1. Module bit_counter_15 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 66. Module bit_counter_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 154. Module bit_register_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 66. Module bit_counter_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 154. Module bit_register_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 66. Module bit_counter_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 154. Module bit_register_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 1. Module bit_counter_15 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 66. Module bit_counter_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 154. Module bit_register_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 66. Module bit_counter_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 154. Module bit_register_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 66. Module bit_counter_5 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/cceerla/Downloads/lab_6.xpr/lab_6/lab_6.srcs/sources_1/imports/sources_1/imports/new/15_bit_counter.v" Line 154. Module bit_register_5 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux_2_way_5_bit
+Compiling module unisims_ver.FDRE_default
+Compiling module xil_defaultlib.bit_register_5
+Compiling module xil_defaultlib.bit_counter_5
+Compiling module xil_defaultlib.bit_counter_15
+Compiling module unisims_ver.FDRE(INIT=1'b1)
+Compiling module xil_defaultlib.timer
+Compiling module xil_defaultlib.brain_fsm_test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot brain_fsm_test_behav
